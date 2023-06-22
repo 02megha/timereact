@@ -1,0 +1,23 @@
+button{
+  background: local;
+  color: blue;
+  padding: 57;
+  text-decoration: underline;
+  text-decoration-color: blueviolet;
+}
+
+h1{
+  text-decoration: wavy;
+  color: aqua;
+  padding: 70;
+  background-color: blueviolet;
+  text-shadow: 0cqb;
+  column-gap: normal;
+  column-width: 50;
+  
+}
+
+
+body {
+  text-align: center;
+}
